@@ -1,0 +1,18 @@
+{
+  "name": "projet-3",
+  "version": "1.0.0",
+  "description": "Ecrire un script NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "image": "index.js"
+  },
+  "author": "Jessica",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1"
+  },
+  "devDependencies": {
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
